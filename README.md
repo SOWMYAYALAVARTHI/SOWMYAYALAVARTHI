@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sowmya Yalavarthi 👋</h1>
+<p align="center">
+   Data Scientist | AI Enthusiast | Open to Work | Passionate about solving real-world problems using Data & ML
+</p>
 
-<!--
-**SOWMYAYALAVARTHI/SOWMYAYALAVARTHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Master’s in Data Science, Pace University (Graduating May 2025)  
+💼 3.6+ years of experience as a Data Engineer (Capgemini & TCS)  
+🌍 Based in Jersey City, NJ — Actively applying for Data Scientist & ML roles  
+🛠️ Building AI Chatbots, ML projects to solve practical problems  
+📌 Interested in Interpretable ML, AI, LLMs, Generative AI, and Healthcare AI solutions
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Tools**  
+`Python` `SQL`  `HTML/CSS`  
+`Pandas` `NumPy` `Scikit-Learn` `PyTorch` `TensorFlow`  
+`Gemini` `Streamlit`  `Flask`  `Machine Learning` 'Deep Learning`
+`Snowflake` `MongoDB` `MySQL` `PostgreSQL`  
+`AWS` `GCP` `Docker` `Git/GitHub`  
+
+---
+
+### 📌 Featured Projects
+
+- 🎯 [FocusFlow – Personal AI Productivity Assistant](https://github.com/SOWMYAYALAVARTHI/FocusFlow---Personal-AI-Productivity-Assistant)  
+  Boosts productivity using Gemini API and Streamlit
+
+- 🧠 [Mental Health Check-In Bot](https://github.com/SOWMYAYALAVARTHI/Healthy-Lifestyle-Buddy) 
+  Supports emotional well-being through conversational AI
+
+- 🌱 [Climate Change & Crop Yield ML Analysis](https://github.com/SOWMYAYALAVARTHI/Machine-Learning-Analysis-of-Climate-change-Impacts-on-Global-crop-yields)   
+  Predicts crop yield vulnerability under climate scenarios
+
+- 💬 [Stock Price Prediction using LSTM and Random Forest](https://github.com/SOWMYAYALAVARTHI) 
+  Predicting Apple Inc stock prices using historical financial data
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SOWMYAYALAVARTHI&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SOWMYAYALAVARTHI&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sowmya-yalavarthi/)
+- 🌐 [Portfolio](https://sowmyayalavarthi.netlify.app/) 
+- 📧 sowmyayalavarthi98@gmail.com
+
+---
+
+*Thanks for stopping by! Feel free to explore my projects or connect for collaboration.*
