@@ -20,7 +20,7 @@
 **Languages & Tools**  
 `Python` `SQL`  `HTML/CSS`  
 `Pandas` `NumPy` `Scikit-Learn` `PyTorch` `TensorFlow`  
-`Gemini` `Streamlit`  `Flask`  `Machine Learning` 'Deep Learning`
+`Gemini` `Streamlit`  `Flask`  `Machine Learning` `Deep Learning`
 `Snowflake` `MongoDB` `MySQL` `PostgreSQL`  
 `AWS` `GCP` `Docker` `Git/GitHub`  
 
@@ -29,16 +29,16 @@
 ### 📌 Featured Projects
 
 - 🎯 [FocusFlow – Personal AI Productivity Assistant](https://github.com/SOWMYAYALAVARTHI/FocusFlow---Personal-AI-Productivity-Assistant)  
-  Boosts productivity using Gemini API and Streamlit
+     Boosts productivity using Gemini API and Streamlit
 
 - 🧠 [Mental Health Check-In Bot](https://github.com/SOWMYAYALAVARTHI/Healthy-Lifestyle-Buddy) 
-  Supports emotional well-being through conversational AI
+     Supports emotional well-being through conversational AI
 
 - 🌱 [Climate Change & Crop Yield ML Analysis](https://github.com/SOWMYAYALAVARTHI/Machine-Learning-Analysis-of-Climate-change-Impacts-on-Global-crop-yields)   
-  Predicts crop yield vulnerability under climate scenarios
+     Predicts crop yield vulnerability under climate scenarios
 
 - 💬 [Stock Price Prediction using LSTM and Random Forest](https://github.com/SOWMYAYALAVARTHI) 
-  Predicting Apple Inc stock prices using historical financial data
+     Predicting Apple Inc stock prices using historical financial data
 
 ---
 
