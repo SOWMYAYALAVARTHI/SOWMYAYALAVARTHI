@@ -28,17 +28,18 @@
 
 ### 📌 Featured Projects
 
-- 🎯 [FocusFlow – Personal AI Productivity Assistant](https://github.com/SOWMYAYALAVARTHI/FocusFlow---Personal-AI-Productivity-Assistant)  
-     Boosts productivity using Gemini API and Streamlit
 
-- 🧠 [Mental Health Check-In Bot](https://github.com/SOWMYAYALAVARTHI/Healthy-Lifestyle-Buddy) 
-     Supports emotional well-being through conversational AI
+  🎯 FocusFlow – Personal AI Productivity Assistant (https://github.com/SOWMYAYALAVARTHI/FocusFlow---Personal-AI-Productivity-Assistant)
+Boosts productivity with intelligent planning using Gemini API and Streamlit.
 
-- 🌱 [Climate Change & Crop Yield ML Analysis](https://github.com/SOWMYAYALAVARTHI/Machine-Learning-Analysis-of-Climate-change-Impacts-on-Global-crop-yields)   
-     Predicts crop yield vulnerability under climate scenarios
+🧠 Mental Health Check-In Bot (https://github.com/SOWMYAYALAVARTHI/Healthy-Lifestyle-Buddy)
+Supports emotional well-being through AI-driven check-ins and mood tracking.
 
-- 💬 [Stock Price Prediction using LSTM and Random Forest](https://github.com/SOWMYAYALAVARTHI) 
-     Predicting Apple Inc stock prices using historical financial data
+🌾 Climate Change & Crop Yield ML Analysis (https://github.com/SOWMYAYALAVARTHI/Machine-Learning-Analysis-of-Climate-change-Impacts-on-Global-crop-yields)
+Predicts crop yield vulnerability under future climate scenarios using ML models.
+
+📈 Stock Price Prediction using LSTM and Random Forest (https://github.com/SOWMYAYALAVARTHI/Stock-Price-Prediction) 
+Predicts Apple Inc. stock prices using historical financial data and hybrid models.
 
 ---
 
