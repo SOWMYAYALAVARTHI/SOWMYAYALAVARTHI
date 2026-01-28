@@ -8,7 +8,7 @@
 ### 🚀 About Me
 
 🎓 Master’s in Data Science, Pace University (Graduating May 2025)  
-💼 Around 5 years of experience as a Data Scientist/Data Engineer (Tern, Capgemini & TCS)  
+💼 Generative AI and Data Science professional  
 🌍 Based in Jersey City, NJ — Actively applying for Data Scientist & ML roles  
 🛠️ Building AI Chatbots, ML projects to solve practical problems  
 📌 Interested in Interpretable ML, AI, LLMs, Generative AI, and Healthcare AI solutions
