@@ -56,7 +56,6 @@ Predicts Apple Inc. stock prices using historical financial data and hybrid mode
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sowmya-yalavarthi/)
-- 🌐 [Portfolio](https://sowmyayalavarthi.netlify.app/) 
 - 📧 sowmyayalavarthi98@gmail.com
 
 ---
