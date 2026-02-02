@@ -6,8 +6,7 @@
 ---
 
 ### 🚀 About Me
-
-🎓 Master’s in Data Science, Pace University (Graduating May 2025)  
+ 
 💼 Generative AI and Data Science professional  
 🌍 Based in Jersey City, NJ — Actively applying for Data Scientist & ML roles  
 🛠️ Building AI Chatbots, ML projects to solve practical problems  
